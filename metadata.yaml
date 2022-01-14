@@ -5,6 +5,9 @@ contributor:
     agent_name: Suomalainen, Hilma
     gutenberg_agent_id: '39811'
     url: http://www.gutenberg.org/2009/agents/39811
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blicher-Clausen, J. (Jenny)
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '32826'
     url: http://www.gutenberg.org/2009/agents/32826
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67125#Kjeld-Katumaalarin-tarina
 gutenberg_issued: '2022-01-08'
 identifiers:
   gutenberg: '67125'
